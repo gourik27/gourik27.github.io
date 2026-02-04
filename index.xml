@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Reflection Blog</title>
+    <link>http://gouik27.github.io/</link>
+    <description>Recent content on My Reflection Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jan 2026 14:53:31 +0530</lastBuildDate>
+    <atom:link href="http://gouik27.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://gouik27.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 28 Jan 2026 14:53:31 +0530</pubDate>
+      <guid>http://gouik27.github.io/posts/my-first-post/</guid>
+      <description>&lt;h5 id=&#34;this-is-my-1st-post-on-my-reflections&#34;&gt;This is My &lt;strong&gt;1st Post&lt;/strong&gt; on my &lt;strong&gt;Reflections&lt;/strong&gt;.&lt;/h5&gt;&#xA;&lt;p&gt;In last few weeks of classes I learned what is &lt;em&gt;&lt;strong&gt;DIKW Model&lt;/strong&gt;&lt;/em&gt;  and &lt;em&gt;&lt;strong&gt;it&amp;rsquo;s limitations&lt;/strong&gt;&lt;/em&gt; and I learned &lt;em&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/em&gt;.&#xA;With my Group we tried to write a &lt;em&gt;&lt;strong&gt;wiki&lt;/strong&gt;&lt;/em&gt; on the &lt;em&gt;&lt;strong&gt;4th lesson&lt;/strong&gt;&lt;/em&gt; of &lt;em&gt;&lt;strong&gt;The Information: A History, a Theory, a Flood by James Gleick.&lt;/strong&gt;&lt;/em&gt; I learned to &lt;strong&gt;analyze the Census education data of Bangalore&lt;/strong&gt; using Google sheets and also I plotted some &lt;strong&gt;charts to visualize what I analyzed&lt;/strong&gt; on census data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
