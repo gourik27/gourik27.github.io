@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://gouik27.github.io/</loc>
+    <lastmod>2026-02-04T15:33:01+05:30</lastmod>
+  </url><url>
+    <loc>http://gouik27.github.io/posts/</loc>
+    <lastmod>2026-02-04T15:33:01+05:30</lastmod>
+  </url><url>
+    <loc>http://gouik27.github.io/posts/reflection2/</loc>
+    <lastmod>2026-02-04T15:33:01+05:30</lastmod>
+  </url><url>
     <loc>http://gouik27.github.io/posts/my-first-post/</loc>
     <lastmod>2026-01-28T14:53:31+05:30</lastmod>
   </url><url>
-    <loc>http://gouik27.github.io/</loc>
-    <lastmod>2026-01-28T14:53:31+05:30</lastmod>
-  </url><url>
-    <loc>http://gouik27.github.io/posts/</loc>
-    <lastmod>2026-01-28T14:53:31+05:30</lastmod>
+    <loc>http://gouik27.github.io/posts/unit2-reflections/</loc>
   </url><url>
     <loc>http://gouik27.github.io/categories/</loc>
   </url><url>
