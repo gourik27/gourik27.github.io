@@ -13,7 +13,7 @@
       <link>http://gouik27.github.io/posts/reflection2/</link>
       <pubDate>Wed, 04 Feb 2026 15:33:01 +0530</pubDate>
       <guid>http://gouik27.github.io/posts/reflection2/</guid>
-      <description>&lt;p&gt;In Unit 2, &lt;strong&gt;&lt;em&gt;The Nature of Information Problems&lt;/em&gt;&lt;/strong&gt;, we examined how digital images represent information through pixel intensity values. We worked with a grayscale image and visualized its pixel structure to understand how images are composed numerically. A histogram of pixel intensities was plotted to analyze the distribution of brightness levels within the image. We then increased the brightness and generated a new histogram to observe changes in intensity distribution. In the laboratory session, we applied &lt;strong&gt;edge detection&lt;/strong&gt; techniques,&lt;strong&gt;including the extraction of horizontal edges and image blurring&lt;/strong&gt;. Additionally, we performed &lt;em&gt;&lt;strong&gt;image rotation&lt;/strong&gt;&lt;/em&gt; at different angles to study geometric transformations and their effects on image representation. We learnt to &lt;strong&gt;estimate Video size&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;understanding-the-nature-of-information-problems-through-digital-images&#34;&gt;Understanding the Nature of information problems through digital images.&lt;/h3&gt;&#xA;&lt;h5&gt;&lt;/h5&gt;&#xA;&lt;h5 id=&#34;introduction&#34;&gt;Introduction:&lt;/h5&gt;&#xA;&lt;p&gt;In unit 2, &lt;em&gt;&lt;strong&gt;The Nature of Information Problems,&lt;/strong&gt;&lt;/em&gt; we explored how digital images represent information using numerical values. This unit helped me understand that images are not just pictures but structured data composed of pixel intensity values. It changed the way I look at images-from visual objects to mathematical representations.&lt;/p&gt;&#xA;&lt;h6 id=&#34;what-i-learned&#34;&gt;What I learned:&lt;/h6&gt;&#xA;&lt;p&gt;I learned that a grayscale image is made up of &lt;strong&gt;pixels&lt;/strong&gt;, and each pixel contains an &lt;strong&gt;intensity value that represents brightness&lt;/strong&gt;. These values usually range from &lt;strong&gt;0 (black) to 255 (white)&lt;/strong&gt;. By visualizing the pixel structure, I understood that every image is essentially a &lt;strong&gt;matrix of numbers.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
@@ -21,13 +21,6 @@
       <pubDate>Wed, 28 Jan 2026 14:53:31 +0530</pubDate>
       <guid>http://gouik27.github.io/posts/my-first-post/</guid>
       <description>&lt;h5 id=&#34;this-is-my-1st-post-on-my-reflections&#34;&gt;This is My &lt;strong&gt;1st Post&lt;/strong&gt; on my &lt;strong&gt;Reflections&lt;/strong&gt;.&lt;/h5&gt;&#xA;&lt;p&gt;In last few weeks of classes I learned what is &lt;em&gt;&lt;strong&gt;DIKW Model&lt;/strong&gt;&lt;/em&gt;  and &lt;em&gt;&lt;strong&gt;it&amp;rsquo;s limitations&lt;/strong&gt;&lt;/em&gt; and I learned &lt;em&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/em&gt;.&#xA;With my Group we tried to write a &lt;em&gt;&lt;strong&gt;wiki&lt;/strong&gt;&lt;/em&gt; on the &lt;em&gt;&lt;strong&gt;4th lesson&lt;/strong&gt;&lt;/em&gt; of &lt;em&gt;&lt;strong&gt;The Information: A History, a Theory, a Flood by James Gleick.&lt;/strong&gt;&lt;/em&gt; I learned to &lt;strong&gt;analyze the Census education data of Bangalore&lt;/strong&gt; using Google sheets and also I plotted some &lt;strong&gt;charts to visualize what I analyzed&lt;/strong&gt; on census data.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://gouik27.github.io/posts/unit2-reflections/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gouik27.github.io/posts/unit2-reflections/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
