@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 15:33:01 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 13:48:19 +0530</lastBuildDate>
     <atom:link href="http://gouik27.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection On Failure</title>
+      <link>http://gouik27.github.io/posts/reflection3/</link>
+      <pubDate>Wed, 18 Feb 2026 13:48:19 +0530</pubDate>
+      <guid>http://gouik27.github.io/posts/reflection3/</guid>
+      <description>&lt;p&gt;Understanding Failure through Context and Consequences and Case study Y2K Bug.&lt;/p&gt;&#xA;&lt;p&gt;Normally I thought Failure is my fault , I did mistake always. But after reading the lesson Context and Consequences from the book Right Kind of Wrong : The Science of Failing Well written by  Amy C. Edmondson. Most important thing I learned from this chapter is that situation matters and we should be aware of the situation whicjh we are in and respond accordingly. According to the Author Different contexts different consequences so situation matters. And this lesson changed my way of treating failure.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reflection on Unit 2</title>
       <link>http://gouik27.github.io/posts/reflection2/</link>
@@ -21,6 +28,20 @@
       <pubDate>Wed, 28 Jan 2026 14:53:31 +0530</pubDate>
       <guid>http://gouik27.github.io/posts/my-first-post/</guid>
       <description>&lt;h5 id=&#34;learning-about-information-concepts-and-data-analysis&#34;&gt;Learning About Information Concepts and Data Analysis.&lt;/h5&gt;&#xA;&lt;p&gt;In the 1st unit &lt;strong&gt;What is Information&lt;/strong&gt; , i learned several new concepts and tools which helped me understand how information is structured and analyzed. I learned &lt;strong&gt;The DIKW Model&lt;/strong&gt;, which explains the relationship between Data,Information , Knowledge and Wisdom. I understood how raw data can be processedd and interpreted to produce meaningful insights. Also we discussed the limitations of this model in class which made me realize that the information from data to knowledge is not always simple or linear. I learned &lt;strong&gt;Markdown&lt;/strong&gt; which is very helpful skill that helps me  to structure documents easily and made writing and organizing content clearer. In lab work as a group we worked on &lt;strong&gt;wiki practice&lt;/strong&gt;  and wrote wiki on 4th chapter of &lt;strong&gt;the Information: A History, a Theory, A flood&lt;/strong&gt; by &lt;strong&gt;James Gleick&lt;/strong&gt;  the lesson taught me the ideas of &lt;strong&gt;Charles Babbage&lt;/strong&gt;  and &lt;strong&gt;Ada Lovelace&lt;/strong&gt;transformed calculation from human labor into programmable mechanical process, laying the foumdation for modern computing and information procrssing. I also understood how to &lt;strong&gt;analyze data&lt;/strong&gt;  like I analzed &lt;strong&gt;the Bangalore census education data&lt;/strong&gt;  using google sheeta. And created visual charts so that viwers can easily understand the data by just seeing. Overall I learned how to see how theoritical concepts about information can be connected with practical tools for analyzing and communicating data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://gouik27.github.io/posts/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://gouik27.github.io/posts/book/</guid>
+      <description>&lt;p&gt;The Main Idea of the lesson is Situation Awareness which means underastanding the kind of situation we are in so we can respond correctly and avoid unnecessary failure. This chapter was very insightful and i felt it is easy to understand because author  used real life  examples and simple classifications. Author divided situations into  consistent, variable and novel types made by this the topic was very clear . After reading this chapter I realized that we should not treat every failure in the same way instead we should think about the which type of situation we were in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://gouik27.github.io/posts/wiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://gouik27.github.io/posts/wiki/</guid>
+      <description>&lt;p&gt;The Y2K bug was a computer flaw, or bug, that may have caused problems when dealing with dates beyond December 31, 1999. The flaw, faced by computer programmers and users all over the world on January 1, 2000, is also known as the &lt;strong&gt;&amp;ldquo;millennium bug.&amp;rdquo;&lt;/strong&gt; (The letter K, which stands for kilo (a unit of 1000), is commonly used to represent the number 1,000. So, Y2K stands for Year 2000.) Many skeptics believe it was barely a problem at all. This problem originated decades earlier , during 1960s-1980s, durin these periods the memory storage was expensive and limited. To save memory , programmers represented &lt;strong&gt;years using only 2 digits instead of 4 digits&lt;/strong&gt; . For example &amp;ldquo;1999&amp;rdquo; was represented as &amp;ldquo;99&amp;rdquo;. It worked nicely till 1999 but when year changed to 2000 it created a critical flaw.Bacause &lt;strong&gt;computers considered 00 as 1900 not 2000&lt;/strong&gt; . Many systems were heavily dependent on date calculations and this posed a significant risk to global infrastructure. It was primarily a software and design failure.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
