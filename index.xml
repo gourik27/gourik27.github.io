@@ -6,8 +6,15 @@
     <description>Recent content on My Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 13:48:19 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 14:19:24 +0530</lastBuildDate>
     <atom:link href="http://gouik27.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learnings from Developing a Chatbot and Real-Time Pollution Dashboard</title>
+      <link>http://gouik27.github.io/posts/reflection5/</link>
+      <pubDate>Thu, 07 May 2026 14:19:24 +0530</pubDate>
+      <guid>http://gouik27.github.io/posts/reflection5/</guid>
+      <description>&lt;p&gt;In the entire course, the project , creating a dashboard and chatbot were most useful in our future. This project work helped me in understanding how to use digital tools to solve real- world problems and to give useful information to people in a simple and interactive way. In this project I created two applications: 1st one is &lt;strong&gt;chatbot using typebot&lt;/strong&gt; and &lt;strong&gt;real-time pollution dashboard using Metabase&lt;/strong&gt;. Developing these interactive systems increased my creativity, technical capability and enhanced my problem-solving skills. &lt;br&gt;&#xA;The chatbot was created as a tool that gives information to students about Azim Premji University(Bangalore). By building the chatbot I got to know how chatbots improve communication with users by using conversational methods instead of just giving text which is boring. I included information about the university, eligibility criterias, courses, admission processes and scholarship opportunities. Creating it was not easy and one challenge I faced was connecting multiple buttons and options so that chatbot doesn’t look messy and confusing. Even though it was slightly difficult, I enjoyed the process and learned the &lt;em&gt;&lt;strong&gt;importance of planning and user-friendly in  building this kind of interactive applications.&lt;/strong&gt;&lt;/em&gt;  &#xA;From the 2nd one, the metabase real time pollution dashboard &lt;em&gt;&lt;strong&gt;I learned how data visualization can teach meaningful stories.&lt;/strong&gt;&lt;/em&gt;  At starting, I struggled in choosing questions to ask and which charts would represent the answer best. But after creating many charts with different ideas, I got to know how to design the graphs, maps and comparisons that explained pollution levels across India. Through this dashboard, I learned how factors such as population, industries, development, and environmental conditions influence pollution. I also improved my analytical skills by comparing pollution levels in the North and South states as well as through research focusing on the levels of  pollution in the state of Karnataka.&#xA;Through these projects, I learned to use digital tools confidently; developed  my knowledge of data analyses and visualizations; and I learned how important it is to develop designs that are creative, interactive, informative and easy for users to understand.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reflection On Failure</title>
       <link>http://gouik27.github.io/posts/reflection3/</link>
@@ -35,6 +42,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://gouik27.github.io/posts/book/</guid>
       <description>&lt;p&gt;The Main Idea of the lesson is Situation Awareness which means underastanding the kind of situation we are in so we can respond correctly and avoid unnecessary failure. This chapter was very insightful and i felt it is easy to understand because author  used real life  examples and simple classifications. Author divided situations into  consistent, variable and novel types made by this the topic was very clear . After reading this chapter I realized that we should not treat every failure in the same way instead we should think about the which type of situation we were in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://gouik27.github.io/posts/reflection4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://gouik27.github.io/posts/reflection4/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
